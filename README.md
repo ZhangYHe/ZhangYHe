@@ -1,4 +1,4 @@
-### Hi there 👋 is ZhangYHe
+### Hi 👋 I'm ZhangYHe
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYHe&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
 
