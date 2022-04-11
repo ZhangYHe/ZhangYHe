@@ -1,4 +1,7 @@
-### Hi 👋 I'm ZhangYHe
+### Hi 👋 I'm ZhangYHe   
+![GitHub User's stars](https://img.shields.io/github/stars/ZhangYHe?color=lightgreen&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/ZhangYHe?color=brighteen&style=plastic)   
+- 🔭 I’m currently working on BITFSAE   
+- 🌱 I’m currently learning Object-Oriented Programming ...   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYHe&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
 
