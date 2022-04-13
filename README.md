@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on BITFSAE   
 - 🌱 I’m currently learning ...   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYHe&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangYHe&count_private=true&hide=Assembly,Makefile&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangYHe&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
