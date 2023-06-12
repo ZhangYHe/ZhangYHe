@@ -74,6 +74,12 @@ Markdown                35 mins         ░░░░░░░░░░░░░�
 <a href="https://www.leetcode.com/r1max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r1max" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">
+  
+![Snake animation](https://github.com/ZhangYHe/ZhangYHe/blob/output/github-contribution-grid-snake.svg)
+
+</h3>
+
 <h3 align="center">Recent Games:</h3>
 
  <!-- steam-box start -->
