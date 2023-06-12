@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Generate snk
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */24 * * *"
+    - cron: '0 0 * * *' # runs at every 12AM UTC
   workflow_dispatch:
 
 jobs:
