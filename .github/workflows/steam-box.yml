@@ -19,7 +19,7 @@ jobs:
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      APP_ID: 292030,1245620,105600,814380,271590，397540
+      APP_ID: 292030,1245620,105600,814380,271590,397540
       
     steps:
       - name: Set up Go 1.x
