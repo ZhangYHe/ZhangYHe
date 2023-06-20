@@ -88,7 +88,8 @@ Markdown                38 mins         ▒░░░░░░░░░░░░�
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 110 hrs 59 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
-🎮 Sekiro™: Shadows Die Twice       🕘 51 hrs 45 mins
+🚓 Grand Theft Auto V               🕘 54 hrs 12 mins
+🎮 Borderlands 3                    🕘 53 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
