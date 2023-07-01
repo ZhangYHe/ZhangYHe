@@ -35,13 +35,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 28 June 2023
+From: 13 April 2023 - To: 29 June 2023
 
-Total Time: 91 hrs 39 mins
+Total Time: 91 hrs 42 mins
 
-Java                    44 hrs 50 mins  ████████████░░░░░░░░░░░░░   48.42 %
-V                       15 hrs 40 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-Python                  15 hrs 13 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Java                    44 hrs 50 mins  ████████████░░░░░░░░░░░░░   48.39 %
+V                       15 hrs 43 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+Python                  15 hrs 13 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
 Text                    8 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
 XML                     1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 C                       1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
