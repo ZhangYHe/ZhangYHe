@@ -13,7 +13,7 @@
 
  <h3 align="center">
   
-<!-- ![card](/cards.svg) -->
+<!-- ![card](/cards.svg)  -->
   
 </h3>
 
