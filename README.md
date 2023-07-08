@@ -13,7 +13,7 @@
 
  <h3 align="center">
   
-![card](/cards.svg)
+<!-- ![card](/cards.svg) -->
   
 </h3>
 
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="./img/logo/latex-color.svg" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
@@ -87,6 +87,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="./img/logo/stmicroelectronics-color.svg" height="40" alt="stm32 logo"  />
+  <img width="12" />
+  <img src="./img/logo/altiumdesigner-color.svg" height="40" alt="AD logo"  />
   <img width="12" />
 </div>
 
