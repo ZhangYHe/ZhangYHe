@@ -208,8 +208,7 @@ Assembly                49 mins         ▒░░░░░░░░░░░░�
 
 <h3 align="center">
   
-<!-- ![Snake animation](https://github.com/ZhangYHe/ZhangYHe/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://raw.githubusercontent.com/ZhangYHe/ZhangYHe/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/ZhangYHe/ZhangYHe/blob/output/snake.svg)
 
 </h3>
 
