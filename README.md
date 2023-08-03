@@ -226,7 +226,7 @@ Vue.js                  1 hr 7 mins     ▒░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/c0ff7cd0dbd701586960420e46c334b7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
-🎮 ELDEN RING                       🕘 111 hrs 30 mins
+🎮 ELDEN RING                       🕘 111 hrs 48 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
 🚓 Grand Theft Auto V               🕘 54 hrs 12 mins
 🎮 Borderlands 3                    🕘 53 hrs 48 mins
