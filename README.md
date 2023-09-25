@@ -175,15 +175,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 22 September 2023
+From: 13 April 2023 - To: 23 September 2023
 
-Total Time: 184 hrs 14 mins
+Total Time: 184 hrs 29 mins
 
-Python                  57 hrs 29 mins  ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-Java                    44 hrs 50 mins  ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-V                       35 hrs 43 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-C++                     15 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Text                    9 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Python                  57 hrs 29 mins  ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+Java                    44 hrs 50 mins  ██████░░░░░░░░░░░░░░░░░░░   24.18 %
+V                       35 hrs 43 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+C++                     15 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Text                    9 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 textmate                4 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 Assembly                3 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 JSON                    2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
