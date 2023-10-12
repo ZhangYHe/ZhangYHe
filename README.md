@@ -229,7 +229,7 @@ Vue.js                  1 hr 44 mins    ▒░░░░░░░░░░░░�
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
 🚓 Grand Theft Auto V               🕘 54 hrs 12 mins
-🎮 Borderlands 3                    🕘 53 hrs 48 mins
+🤖 Borderlands 3                    🕘 53 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
