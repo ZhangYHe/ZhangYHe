@@ -175,20 +175,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 01 November 2023
+From: 13 April 2023 - To: 02 November 2023
 
-Total Time: 215 hrs 29 mins
+Total Time: 218 hrs 27 mins
 
-Python                  78 hrs 56 mins  █████████░░░░░░░░░░░░░░░░   36.47 %
-Java                    44 hrs 50 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-V                       35 hrs 43 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-C++                     16 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Text                    10 hrs 8 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-textmate                4 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown                4 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON                    4 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-TypeScript              2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python                  79 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   36.16 %
+Java                    44 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░░   20.44 %
+V                       35 hrs 43 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+C++                     16 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Text                    10 hrs 8 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Vue.js                  4 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+textmate                4 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Markdown                4 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JSON                    4 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
