@@ -225,11 +225,11 @@ Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/c0ff7cd0dbd701586960420e46c334b7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
+💻 Wallpaper Engine                 🕘 247 hrs 34 mins
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
-🚓 Grand Theft Auto V               🕘 54 hrs 12 mins
-🤖 Borderlands 3                    🕘 53 hrs 48 mins
+🎮 Stardew Valley                   🕘 90 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
