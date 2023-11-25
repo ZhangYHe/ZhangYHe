@@ -229,7 +229,7 @@ Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░�
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
-🎮 Stardew Valley                   🕘 92 hrs 7 mins
+🎮 Stardew Valley                   🕘 95 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
