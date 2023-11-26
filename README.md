@@ -64,6 +64,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
@@ -97,6 +99,8 @@
   <img src="./img/logo/stmicroelectronics-color.svg" height="40" alt="stm32 logo"  />
   <img width="12" />
   <img src="./img/logo/altiumdesigner-color.svg" height="40" alt="AD logo"  />
+  <img width="12" />
+  <img src="./img/logo/armkeil-color.svg" height="40" alt="Keil logo"  />
   <img width="12" />
 </div>
 
@@ -167,6 +171,10 @@
   <img src="./img/logo/adobephotoshop-color.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="./img/logo/adobepremierepro-color.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo" />
   <img width="12" />
 </div>
 
