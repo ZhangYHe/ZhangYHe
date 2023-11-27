@@ -183,18 +183,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 24 November 2023
+From: 13 April 2023 - To: 25 November 2023
 
-Total Time: 238 hrs 32 mins
+Total Time: 238 hrs 48 mins
 
-Python                  90 hrs 34 mins  █████████▒░░░░░░░░░░░░░░░   37.80 %
-Java                    44 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-V                       35 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Python                  90 hrs 34 mins  █████████▒░░░░░░░░░░░░░░░   37.76 %
+Java                    44 hrs 50 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+V                       35 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
 C++                     16 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 Text                    10 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Vue.js                  7 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Vue.js                  7 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Markdown                6 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 JSON                    6 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Markdown                6 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 textmate                4 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
