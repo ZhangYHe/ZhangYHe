@@ -236,7 +236,7 @@ Assembly                3 hrs 27 mins   ▒░░░░░░░░░░░░�
 💻 Wallpaper Engine                 🕘 247 hrs 43 mins
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
-🎮 Stardew Valley                   🕘 102 hrs 21 mins
+🎮 Stardew Valley                   🕘 105 hrs 24 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
