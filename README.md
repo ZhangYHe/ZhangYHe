@@ -236,7 +236,7 @@ textmate                4 hrs 32 mins   ▒░░░░░░░░░░░░�
 💻 Wallpaper Engine                 🕘 247 hrs 44 mins
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
-🎮 Stardew Valley                   🕘 110 hrs 54 mins
+🎮 Stardew Valley                   🕘 111 hrs 26 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
