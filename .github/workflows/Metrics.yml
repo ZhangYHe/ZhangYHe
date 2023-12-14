@@ -63,8 +63,8 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: STM32-Timer, BMS-master, Single-Cycle-CPU-RISCV-V
+          plugin_languages_skipped: STM32-Timer, BMS-master, Single-Cycle-CPU-RISCV-V, 32bit-ALU, pipelined_CPU
           plugin_languages_threshold: 0%
           plugin_repositories: yes
-          plugin_repositories_featured: vclib-ui,CN_Word-Segmentation-POS-tagging,CN_Text-Classification,SimulatedAnnealing_PFSP, Reliable-file-transfer-using-Go-Back-N-protocol-Py, Single-Cycle-CPU-RISCV-V
+          plugin_repositories_featured: vclib-ui,CN_Word-Segmentation-POS-tagging,CN_Text-Classification,SimulatedAnnealing_PFSP, Reliable-file-transfer-using-Go-Back-N-protocol-Py, Single-Cycle-CPU-RISCV-V, 32bit-ALU, pipelined_CPU
           plugin_repositories_order: featured, pinned, starred, random
