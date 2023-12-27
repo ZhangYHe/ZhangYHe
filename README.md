@@ -233,8 +233,8 @@ textmate                4 hrs 32 mins   ▒░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/c0ff7cd0dbd701586960420e46c334b7" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 247 hrs 52 mins
-🎮 Stardew Valley                   🕘 136 hrs 55 mins
+💻 Wallpaper Engine                 🕘 249 hrs 29 mins
+🎮 Stardew Valley                   🕘 138 hrs 14 mins
 🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
 🎮 ELDEN RING                       🕘 112 hrs 41 mins
 🎮 Terraria                         🕘 102 hrs 12 mins
