@@ -17,7 +17,9 @@
   
 </h3>
 
+<!--
 - 🔭 I’m currently working on **BITFSAE**
+-->
 
 - 📫 How to reach me **r1maxzhang@gmail.com** or **2434379504@qq.com**
 
@@ -27,18 +29,16 @@
   <img width="400px" src="https://raw.githubusercontent.com/ZhangYHe/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
 </p>
 
+<!--
 <h3 align="center">Recent Activity:</h1>
+-->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/truecrab/VSCode_Extension_Verilog/issues/10) in [truecrab/VSCode_Extension_Verilog](https://github.com/truecrab/VSCode_Extension_Verilog)
-2. 🗣 Commented on [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#8](https://github.com/zyhsuperman/vclib-ui/pull/8) in [zyhsuperman/vclib-ui](https://github.com/zyhsuperman/vclib-ui)
-5. 💪 Opened PR [#6](https://github.com/zyhsuperman/vclib-ui/pull/6) in [zyhsuperman/vclib-ui](https://github.com/zyhsuperman/vclib-ui)
+
 <!--END_SECTION:activity-->
 
-
 <!-- Metrics -->
+<!--
 <h3 align="center">🛠 Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -177,6 +177,7 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="selenium logo" />
   <img width="12" />
 </div>
+-->
 
 <div> &nbsp;</div>
 
@@ -216,11 +217,13 @@ textmate                4 hrs 32 mins   ▒░░░░░░░░░░░░�
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangyhe&show_icons=true&locale=en" alt="zhangyhe" /></p>
 -->
 
+<!--
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://kaggle.com/yunhezhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yunhezhang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/r1max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r1max" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="center">
   
@@ -228,20 +231,10 @@ textmate                4 hrs 32 mins   ▒░░░░░░░░░░░░�
 
 </h3>
 
+<!--
 <h3 align="center">Recent Games:</h3>
+-->
 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/c0ff7cd0dbd701586960420e46c334b7" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-💻 Wallpaper Engine                 🕘 253 hrs 16 mins
-🎮 Stardew Valley                   🕘 145 hrs 21 mins
-🎮 The Witcher 3: Wild Hunt         🕘 113 hrs 19 mins
-🎮 ELDEN RING                       🕘 112 hrs 41 mins
-🎮 Terraria                         🕘 102 hrs 12 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
- 
  <h3 align="center">About me:</h3>
  
  <h3 align="center"><details> <summary>Click here</summary>
