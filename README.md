@@ -24,10 +24,11 @@
 - 📫 How to reach me **r1maxzhang@gmail.com** or **2434379504@qq.com**
 
 <div> &nbsp;</div>
-
+<!--
 <p align="center" >
   <img width="400px" src="https://raw.githubusercontent.com/ZhangYHe/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
 </p>
+-->
 
 <!--
 <h3 align="center">Recent Activity:</h1>
