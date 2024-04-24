@@ -23,5 +23,5 @@ jobs:
           SHOW_MASKED_TIME: false
           SHOW_TITLE: true
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: JSON, Text, Other
+          IGNORED_LANGUAGES: JSON Text Other YAML TOML
     
