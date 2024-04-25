@@ -18,11 +18,12 @@ jobs:
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
+          IGNORED_LANGUAGES: JSON Text YAML TOML
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           SHOW_TITLE: true
           STOP_AT_OTHER: false
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: JSON Text Other YAML TOML
+          
     
