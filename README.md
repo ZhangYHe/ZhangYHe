@@ -233,7 +233,9 @@ Other                   7 hrs 8 mins    ▒░░░░░░░░░░░░�
 </h3>
 
 <h3 align="center">
+  
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
 </h3>
 
 <!--
