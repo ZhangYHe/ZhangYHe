@@ -19,7 +19,7 @@ jobs:
           SHOW_TITLE: true
           STOP_AT_OTHER: false
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka-simple"
+          SECTION_NAME: "waka"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
