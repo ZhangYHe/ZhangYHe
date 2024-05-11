@@ -13,17 +13,17 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: ZhangYHe/ZhangYHe
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_TITLE: true
+          STOP_AT_OTHER: false
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
-          IGNORED_LANGUAGES: JSON,Text,YAML,TOML,Markdown
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          SHOW_TITLE: true
-          STOP_AT_OTHER: false
           LANG_COUNT: 10
+          IGNORED_LANGUAGES: JSON Text YAML TOML Markdown
           
     
