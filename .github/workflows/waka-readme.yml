@@ -18,12 +18,13 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TITLE: true
           STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: JSON Text YAML TOML Markdown
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: JSON Text YAML TOML Markdown
+          
           
     
