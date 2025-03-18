@@ -229,11 +229,7 @@ Vue.js                  7 hrs 43 mins   ▒░░░░░░░░░░░░�
 
 </h3>
 
-<h3 align="center">
-  
-![](./profile-3d-contrib/profile-season-animate.svg)
 
-</h3>
 
 <!--
 <h3 align="center">Recent Games:</h3>
@@ -242,6 +238,12 @@ Vue.js                  7 hrs 43 mins   ▒░░░░░░░░░░░░�
  <h3 align="center">About me:</h3>
  
  <h3 align="center"><details> <summary>Click here</summary>
+
+ <h3 align="center">
+  
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+</h3>
   
 ![Metrics](/github-metrics.svg)
   
