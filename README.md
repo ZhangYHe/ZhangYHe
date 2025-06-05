@@ -185,12 +185,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 02 June 2025
+From: 13 April 2023 - To: 03 June 2025
 
-Total Time: 518 hrs 40 mins
+Total Time: 518 hrs 53 mins
 
-Python                  254 hrs 43 mins ████████████░░░░░░░░░░░░░   48.08 %
-Java                    44 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Python                  254 hrs 43 mins ████████████░░░░░░░░░░░░░   48.06 %
+Java                    44 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 V                       35 hrs 43 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 C++                     30 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 Bash                    19 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
