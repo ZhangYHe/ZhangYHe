@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **BITFSAE**
 -->
 
-- 📫 How to reach me **r1maxzhang@gmail.com** or **2434379504@qq.com**
+- 📫 How to reach me : **2434379504@qq.com**
 
 <div> &nbsp;</div>
 <!--
